@@ -4,7 +4,7 @@ This was an assignment from mobile application development that had an individua
 
 I've followed everything it has demonstrated in the video. Six images in this project were downloaded from https://www.flaticon.com. The author of those six images is IconsNova, and you can find their artwork at https://www.flaticon.com/authors/iconsnova.
 
-There were a few modifications made with the  assistance of LLM. The modifications I've incorporated in this are listed below.
+There were a few modifications made with the assistance of LLM. The modifications I've incorporated in this are listed below.
 
 Changed the default background to a more pleasant and less eye-straining color.
 Updated the color of the buttons that match the color of the dice as closely as possible.
